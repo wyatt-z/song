@@ -1786,3 +1786,13 @@ e:\song\specs\example.spec:5 Step should not be blank
 08-07-2020 09:24:52.882 [Gauge] [DEBUG] Validation completed.
 08-07-2020 09:59:00.294 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
 08-07-2020 12:28:51.177 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+08-07-2020 12:37:24.178 [Gauge] [DEBUG] Validation started.
+08-07-2020 12:37:24.179 [Gauge] [DEBUG] Validation completed.
+08-07-2020 12:37:25.610 [Gauge] [DEBUG] Validation started.
+08-07-2020 12:37:25.611 [Gauge] [DEBUG] Validation completed.
+08-07-2020 12:42:22.686 [Gauge] [DEBUG] Validation started.
+08-07-2020 12:42:22.687 [Gauge] [DEBUG] Validation completed.
+08-07-2020 12:42:32.012 [Gauge] [DEBUG] Validation started.
+08-07-2020 12:42:32.012 [Gauge] [DEBUG] Validation completed.
+08-07-2020 12:42:40.840 [Gauge] [DEBUG] Validation started.
+08-07-2020 12:42:40.841 [Gauge] [DEBUG] Validation completed.
