@@ -1,0 +1,25 @@
+# OpenAPI参考文档 https://swagger.io/docs/specification/about/
+
+openapi: 3.0.0    # openapi版本
+info:
+  title: The New World    # 标题
+  description: Greeting from the new world.
+  version: 1.0.0    # 接口版本
+
+servers:
+  - url: http://localhost:5000/api    # 接口服务地址
+
+paths:
+  /say_hello:
+    get:
+      operationId: hello.hello_world    # 对应代码hello模块的hello_world方法
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string

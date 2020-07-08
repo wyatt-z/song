@@ -1,0 +1,1788 @@
+06-07-2020 10:08:49.006 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 10:08:49.073 [Gauge] [DEBUG] Found 1 files
+06-07-2020 10:08:49.295 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 10:08:49.303 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 10:08:49.303 [Gauge] [DEBUG] Adding specs from e:\song\specs\example.spec
+06-07-2020 10:08:49.303 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 10:08:49.311 [Gauge] [INFO] Starting language runner
+06-07-2020 10:08:51.717 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 10:08:51.717 [Gauge] [DEBUG] Found 1 files
+06-07-2020 10:08:51.972 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 10:08:51.973 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 10:08:51.974 [Gauge] [DEBUG] Adding specs from e:\song\specs\example.spec
+06-07-2020 10:08:51.974 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 10:08:51.975 [Gauge] [INFO] Starting language runner
+06-07-2020 10:08:52.310 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57478
+06-07-2020 10:08:52.316 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57478
+06-07-2020 10:08:52.316 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 10:08:52.538 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:08:52.543 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:16.065 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:16.068 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:33.370 [Gauge] [DEBUG] request #7: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:33.468 [Gauge] [DEBUG] request #9: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:33.542 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:33.542 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:33.636 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:33.660 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:33.878 [Gauge] [DEBUG] request #11: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:33.898 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:33.899 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:33.987 [Gauge] [DEBUG] request #12: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:34.807 [Gauge] [DEBUG] request #14: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:34.917 [Gauge] [DEBUG] request #15: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:34.976 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:34.976 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:35.065 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:35.085 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:37.127 [Gauge] [DEBUG] request #16: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:37.223 [Gauge] [DEBUG] request #18: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:37.277 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:37.277 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:37.375 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:37.394 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:38.299 [Gauge] [DEBUG] request #20: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:38.409 [Gauge] [DEBUG] request #22: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:38.497 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:38.498 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:39.080 [Gauge] [DEBUG] request #23: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:39.189 [Gauge] [DEBUG] request #25: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:39.278 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:39.278 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:39.473 [Gauge] [DEBUG] request #26: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:39.557 [Gauge] [DEBUG] request #27: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:39.658 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:39.658 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:39.851 [Gauge] [DEBUG] request #28: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:39.949 [Gauge] [DEBUG] request #30: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:40.044 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:40.044 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:40.105 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:40.118 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:40.464 [Gauge] [DEBUG] request #31: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:40.573 [Gauge] [DEBUG] request #32: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:40.621 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:40.621 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:40.724 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:40.743 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:41.601 [Gauge] [DEBUG] request #33: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:41.695 [Gauge] [DEBUG] request #35: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:41.759 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:41.759 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:42.049 [Gauge] [DEBUG] request #36: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:42.138 [Gauge] [DEBUG] request #37: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:42.198 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:42.198 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:42.306 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:42.327 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:44.702 [Gauge] [DEBUG] request #38: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:44.860 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:44.861 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:45.218 [Gauge] [DEBUG] request #40: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:45.314 [Gauge] [DEBUG] request #42: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:45.375 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:45.375 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:45.644 [Gauge] [DEBUG] request #43: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:45.753 [Gauge] [DEBUG] request #44: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:45.813 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:45.813 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:45.903 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:45.919 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:47.153 [Gauge] [DEBUG] request #45: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:47.247 [Gauge] [DEBUG] request #47: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:47.325 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:47.325 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:47.411 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:47.427 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:48.516 [Gauge] [DEBUG] request #49: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:48.611 [Gauge] [DEBUG] request #51: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:48.690 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:48.690 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:48.775 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:48.794 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:49.535 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:49.535 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:49.603 [Gauge] [DEBUG] request #53: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec does not have any elements
+06-07-2020 10:09:49.710 [Gauge] [DEBUG] request #54: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec does not have any elements => '']
+06-07-2020 10:09:49.764 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:49.764 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:49.868 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:49.886 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:50.270 [Gauge] [DEBUG] request #55: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec should have atleast one scenario
+06-07-2020 10:09:50.365 [Gauge] [DEBUG] request #56: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec should have atleast one scenario => '']
+06-07-2020 10:09:50.431 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:50.431 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:50.647 [Gauge] [DEBUG] request #57: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:1 Spec should have atleast one scenario
+06-07-2020 10:09:50.743 [Gauge] [DEBUG] request #58: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:1 Spec should have atleast one scenario => '']
+06-07-2020 10:09:50.815 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:50.815 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:50.908 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:50.927 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:54.313 [Gauge] [DEBUG] request #59: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario heading should have at least one character
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:09:54.408 [Gauge] [DEBUG] request #61: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario heading should have at least one character => '' [ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:09:54.468 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:54.468 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:54.737 [Gauge] [DEBUG] request #62: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario heading should have at least one character
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:09:54.822 [Gauge] [DEBUG] request #63: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario heading should have at least one character => '' [ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:09:54.917 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:09:54.917 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:09:54.976 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:09:54.994 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:22.242 [Gauge] [DEBUG] request #64: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:22.338 [Gauge] [DEBUG] request #66: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:22.397 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:22.397 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:22.501 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:22.510 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:23.038 [Gauge] [DEBUG] request #67: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:23.134 [Gauge] [DEBUG] request #69: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:23.195 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:23.195 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:23.301 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:23.311 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:24.613 [Gauge] [DEBUG] request #71: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:24.709 [Gauge] [DEBUG] request #73: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:24.769 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:24.769 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:24.877 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:24.894 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:25.347 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:25.347 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:25.599 [Gauge] [DEBUG] request #74: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:25.685 [Gauge] [DEBUG] request #76: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:25.769 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:25.769 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:26.148 [Gauge] [DEBUG] request #77: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:26.312 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:26.312 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:26.617 [Gauge] [DEBUG] request #79: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:26.729 [Gauge] [DEBUG] request #81: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:26.800 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:26.800 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:26.872 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:26.886 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:27.962 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:27.962 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:28.016 [Gauge] [DEBUG] request #83: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:28.167 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:28.167 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:28.478 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:28.478 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:28.553 [Gauge] [DEBUG] request #84: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:28.649 [Gauge] [DEBUG] request #85: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:28.706 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:28.706 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:29.100 [Gauge] [DEBUG] request #86: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:29.192 [Gauge] [DEBUG] request #88: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:29.255 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:29.255 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:29.689 [Gauge] [DEBUG] request #89: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:29.865 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:29.865 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:30.376 [Gauge] [DEBUG] request #91: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:30.472 [Gauge] [DEBUG] request #93: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:30.531 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:30.531 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:30.800 [Gauge] [DEBUG] request #94: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:30.886 [Gauge] [DEBUG] request #95: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:30.977 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:30.977 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:31.045 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:31.060 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:32.026 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:32.026 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:32.293 [Gauge] [DEBUG] request #96: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:32.385 [Gauge] [DEBUG] request #98: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:32.470 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:32.470 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:32.788 [Gauge] [DEBUG] request #99: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:32.883 [Gauge] [DEBUG] request #100: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:32.944 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:32.944 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:33.165 [Gauge] [DEBUG] request #101: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:33.255 [Gauge] [DEBUG] request #103: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:33.321 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:33.321 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:33.422 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:33.435 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:34.470 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:34.470 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:34.675 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:34.675 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:34.764 [Gauge] [DEBUG] request #105: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:34.873 [Gauge] [DEBUG] request #106: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:34.914 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:34.914 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:35.025 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:35.044 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:35.348 [Gauge] [DEBUG] request #107: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:35.441 [Gauge] [DEBUG] request #108: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:35.518 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:35.518 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:35.813 [Gauge] [DEBUG] request #109: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:3 Scenario should have atleast one step
+06-07-2020 10:10:35.921 [Gauge] [DEBUG] request #110: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:3 Scenario should have atleast one step => '']
+06-07-2020 10:10:35.982 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:35.982 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:36.072 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:36.085 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:37.637 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:37.637 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:37.662 [Gauge] [DEBUG] request #113: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:10:37.771 [Gauge] [DEBUG] request #114: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:10:37.922 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:37.936 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:39.365 [Gauge] [DEBUG] request #116: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:10:39.461 [Gauge] [DEBUG] request #117: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:10:39.528 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:10:39.528 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:10:39.625 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:10:39.635 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:16.904 [Gauge] [DEBUG] request #121: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:17.082 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:17.082 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:17.221 [Gauge] [DEBUG] request #123: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:17.331 [Gauge] [DEBUG] request #124: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:17.418 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:17.418 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:17.800 [Gauge] [DEBUG] request #126: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:17.896 [Gauge] [DEBUG] request #128: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:17.961 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:17.961 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:18.064 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:18.078 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:18.322 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:18.322 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:18.522 [Gauge] [DEBUG] request #130: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:18.608 [Gauge] [DEBUG] request #132: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:18.686 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:18.686 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:19.100 [Gauge] [DEBUG] request #133: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:19.196 [Gauge] [DEBUG] request #135: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:19.263 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:19.263 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:19.358 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:19.370 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:19.607 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:19.607 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:19.630 [Gauge] [DEBUG] request #136: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:20.063 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:20.064 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:20.396 [Gauge] [DEBUG] request #137: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:20.559 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:20.559 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:20.742 [Gauge] [DEBUG] request #139: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:20.930 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:20.930 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:21.262 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:21.262 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:21.302 [Gauge] [DEBUG] request #140: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:21.406 [Gauge] [DEBUG] request #141: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:21.467 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:21.467 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:21.735 [Gauge] [DEBUG] request #142: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:21.925 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:21.925 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:22.018 [Gauge] [DEBUG] request #143: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:22.130 [Gauge] [DEBUG] request #144: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:22.201 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:22.201 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:22.276 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:22.294 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:22.632 [Gauge] [DEBUG] request #146: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:22.794 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:22.794 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:22.911 [Gauge] [DEBUG] request #148: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:23.001 [Gauge] [DEBUG] request #149: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:23.068 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:23.068 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:23.986 [Gauge] [DEBUG] request #151: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:24.165 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:24.165 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:24.271 [Gauge] [DEBUG] request #153: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:24.367 [Gauge] [DEBUG] request #154: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:24.429 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:24.429 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:24.514 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:24.529 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:26.466 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:11:26.466 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:11:26.489 [Gauge] [DEBUG] request #160: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:11:26.596 [Gauge] [DEBUG] request #161: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:11:26.746 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:11:26.761 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:01.610 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:01.824 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:02.077 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:02.086 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:04.005 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:04.238 [Gauge] [DEBUG] request #169: textDocument/codeLens: failed to parse e:\song\specs\example.spec
+e:\song\specs\example.spec:5 Step should not be blank
+06-07-2020 10:12:04.334 [Gauge] [DEBUG] request #170: textDocument/documentSymbol: parsing failed for e:\song\specs\example.spec. [[ParseError] e:\song\specs\example.spec:5 Step should not be blank => '']
+06-07-2020 10:12:04.398 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:04.398 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:12:04.499 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:04.503 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:04.731 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:05.226 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:05.492 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:05.789 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:05.804 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:06.283 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:06.629 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:06.909 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:07.197 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:07.220 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:07.547 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:08.163 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:08.368 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:08.512 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:08.528 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:08.786 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:09.077 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:09.095 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:09.647 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:09.852 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:10.034 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:10.053 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:11.053 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:11.258 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:11.631 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:11.833 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:11.930 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:11.945 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:12.164 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:12.658 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:12.865 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:13.067 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:13.287 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:13.630 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:13.832 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:13.934 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:13.952 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:14.551 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:14.756 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:14.959 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:15.168 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:15.348 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:15.362 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:15.897 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:16.103 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:16.307 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:16.515 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:16.537 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:24.424 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:24.428 [Gauge] [INFO] Spec file added / modified: e:\song\specs\example.spec
+06-07-2020 10:12:32.135 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:45.951 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:12:46.269 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:13:15.633 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:13:15.839 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:13:16.043 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:14:33.951 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:14:34.539 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:14:46.212 [js] [ERROR] Line 4: Unexpected token ,
+06-07-2020 10:14:46.415 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:14:46.621 [js] [ERROR] Line 4: Unexpected token ,
+06-07-2020 10:14:46.858 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:14:47.220 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:06.100 [js] [ERROR] Line 4: Unexpected token ,
+06-07-2020 10:15:06.308 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:06.647 [js] [ERROR] Line 4: Unexpected token ,
+06-07-2020 10:15:06.860 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:07.180 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:27.008 [js] [ERROR] Line 4: Unexpected token ,
+06-07-2020 10:15:27.214 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:27.752 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:28.289 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:44.753 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:45.517 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:46.491 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:46.701 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:15:47.070 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:24.637 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:24.638 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:28.812 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:28.813 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:41.806 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:41.807 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:44.821 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:44.822 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:45.077 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:45.078 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:45.110 [js] [ERROR] Line 29: Unexpected token .
+06-07-2020 10:16:45.338 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:45.339 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:47.771 [js] [ERROR] Line 29: Unexpected token .
+06-07-2020 10:16:47.979 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:47.980 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:48.824 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:48.825 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:49.172 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:49.172 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:49.420 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:49.421 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:49.920 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:49.921 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:50.532 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:50.532 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:51.904 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:51.905 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:57.085 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:57.086 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:57.415 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:57.415 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:57.643 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:57.644 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:57.974 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:57.974 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:58.367 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:58.367 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:58.783 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:58.784 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:58.997 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:58.997 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:16:59.965 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:16:59.966 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:00.797 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:00.798 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:01.174 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:01.174 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:01.483 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:01.484 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:01.936 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:01.937 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:02.499 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:02.500 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:02.721 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:02.722 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:02.994 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:02.994 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:03.211 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:03.212 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:03.799 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:03.799 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:04.660 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:04.661 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:04.898 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:04.899 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:05.707 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:05.708 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:06.175 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:06.176 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:06.475 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:06.475 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:07.339 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:07.340 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:07.548 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:07.548 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:08.155 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:08.156 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:09.158 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:09.159 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:09.399 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:09.399 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:11.853 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:11.854 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:12.108 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:12.109 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:13.326 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:13.327 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:14.614 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:14.615 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:14.931 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:14.932 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:17.048 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:17.049 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:17.655 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:17.656 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:18.177 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:18.178 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:18.444 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:18.445 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:18.677 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:18.678 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:18.923 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:18.924 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:19.433 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:19.434 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:20.558 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:20.559 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:20.778 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:20.778 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:21.221 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:21.221 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:22.019 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:22.019 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:22.224 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:22.225 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:22.439 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:22.440 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:24.178 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:24.179 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:24.659 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:24.660 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:25.419 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:25.420 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:27.878 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:27.879 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:28.817 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:28.818 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:29.070 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:29.071 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:29.600 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:29.601 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:29.805 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:29.806 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:30.168 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:30.169 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:30.561 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:30.562 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:30.984 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:30.985 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:31.361 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:31.362 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:31.740 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:31.741 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:33.164 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:33.164 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:33.955 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:33.956 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:34.231 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:34.232 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:35.338 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:35.339 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:37.135 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:37.136 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:42.295 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:42.296 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:42.567 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:42.568 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:52.414 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:52.414 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:52.638 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:52.639 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:53.147 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:53.147 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:17:56.435 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:17:56.435 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:18:19.289 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:18:19.289 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:34:44.962 [Gauge] [INFO] Spec file removed: e:\song\specs\example.spec
+06-07-2020 10:34:44.962 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+06-07-2020 10:34:44.962 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+06-07-2020 10:34:44.963 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+06-07-2020 10:34:45.234 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:34:45.234 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:34:45.438 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:34:45.439 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:34:45.639 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:34:45.640 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:35:01.811 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:35:01.812 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:35:27.700 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:35:27.701 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:43:46.461 [Gauge] [DEBUG] Runner with PID:13064 has exited
+06-07-2020 10:43:54.992 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 10:43:54.992 [Gauge] [DEBUG] Found 1 files
+06-07-2020 10:43:55.419 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 10:43:55.421 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 10:43:55.421 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 10:43:55.421 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 10:43:55.422 [Gauge] [INFO] Starting language runner
+06-07-2020 10:43:55.920 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57680
+06-07-2020 10:43:55.927 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57680
+06-07-2020 10:43:55.927 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 10:43:56.271 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:43:56.275 [Gauge] [DEBUG] Validation completed.
+06-07-2020 10:46:33.983 [Gauge] [DEBUG] Validation started.
+06-07-2020 10:46:33.985 [Gauge] [DEBUG] Validation completed.
+06-07-2020 11:03:15.623 [Gauge] [DEBUG] Runner with PID:7324 has exited
+06-07-2020 11:03:15.640 [Gauge] [INFO] Connection closed
+06-07-2020 11:03:17.425 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 11:03:17.426 [Gauge] [DEBUG] Found 1 files
+06-07-2020 11:03:17.903 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 11:03:17.904 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 11:03:17.904 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 11:03:17.904 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 11:03:17.905 [Gauge] [INFO] Starting language runner
+06-07-2020 11:03:18.437 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57828
+06-07-2020 11:03:18.439 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57828
+06-07-2020 11:03:18.440 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 11:03:18.865 [Gauge] [DEBUG] Validation started.
+06-07-2020 11:03:18.872 [Gauge] [DEBUG] Validation completed.
+06-07-2020 11:03:19.106 [Gauge] [DEBUG] Validation started.
+06-07-2020 11:03:19.107 [Gauge] [DEBUG] Validation completed.
+06-07-2020 11:09:44.556 [Gauge] [DEBUG] Runner with PID:4976 has exited
+06-07-2020 11:09:44.562 [Gauge] [INFO] Connection closed
+06-07-2020 11:09:50.633 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 11:09:50.633 [Gauge] [DEBUG] Found 1 files
+06-07-2020 11:09:50.934 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 11:09:50.970 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 11:09:50.970 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 11:09:50.970 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 11:09:50.971 [Gauge] [INFO] Starting language runner
+06-07-2020 11:09:51.514 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 11:09:51.514 [Gauge] [DEBUG] Found 1 files
+06-07-2020 11:09:51.573 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57899
+06-07-2020 11:09:51.583 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57899
+06-07-2020 11:09:51.583 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 11:09:51.842 [Gauge] [DEBUG] Runner with PID:8472 has exited
+06-07-2020 11:09:51.872 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 11:09:51.872 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 11:09:51.872 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 11:09:51.872 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 11:09:51.873 [Gauge] [INFO] Starting language runner
+06-07-2020 11:09:51.901 [Gauge] [INFO] Connection closed
+06-07-2020 11:09:51.901 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+06-07-2020 11:09:52.374 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57904
+06-07-2020 11:09:52.380 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57904
+06-07-2020 11:09:52.381 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 11:09:52.716 [Gauge] [DEBUG] Validation started.
+06-07-2020 11:09:52.720 [Gauge] [DEBUG] Validation completed.
+06-07-2020 11:09:53.693 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 11:09:53.694 [Gauge] [DEBUG] Found 1 files
+06-07-2020 11:09:53.933 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 11:09:53.933 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 11:09:53.934 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 11:09:53.934 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 11:09:53.934 [Gauge] [INFO] Starting language runner
+06-07-2020 11:09:54.385 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57914
+06-07-2020 11:09:54.388 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57914
+06-07-2020 11:09:54.388 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 11:09:54.670 [Gauge] [DEBUG] Validation started.
+06-07-2020 11:09:54.696 [Gauge] [DEBUG] Validation completed.
+06-07-2020 11:11:49.788 [Gauge] [DEBUG] Runner with PID:8404 has exited
+06-07-2020 11:11:49.822 [Gauge] [INFO] Connection closed
+06-07-2020 11:15:38.722 [Gauge] [DEBUG] Runner with PID:12584 has exited
+06-07-2020 11:15:38.739 [Gauge] [INFO] Connection closed
+06-07-2020 11:15:43.911 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 11:15:43.911 [Gauge] [DEBUG] Found 1 files
+06-07-2020 11:15:44.282 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 11:15:44.283 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+06-07-2020 11:15:44.283 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 11:15:44.283 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 11:15:44.283 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 11:15:44.287 [Gauge] [INFO] Starting language runner
+06-07-2020 11:15:44.726 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58132
+06-07-2020 11:15:44.731 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58132
+06-07-2020 11:15:44.731 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 11:15:45.182 [Gauge] [DEBUG] Validation started.
+06-07-2020 11:15:45.185 [Gauge] [DEBUG] Validation completed.
+06-07-2020 11:20:28.681 [Gauge] [DEBUG] Runner with PID:7164 has exited
+06-07-2020 11:20:28.700 [Gauge] [INFO] Connection closed
+06-07-2020 11:20:34.150 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 11:20:34.150 [Gauge] [DEBUG] Found 1 files
+06-07-2020 11:20:34.512 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 11:20:34.512 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 11:20:34.512 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 11:20:34.512 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 11:20:34.513 [Gauge] [INFO] Starting language runner
+06-07-2020 11:20:34.972 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58215
+06-07-2020 11:20:34.976 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58215
+06-07-2020 11:20:34.976 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 11:20:35.352 [Gauge] [DEBUG] Validation started.
+06-07-2020 11:20:35.357 [Gauge] [DEBUG] Validation completed.
+06-07-2020 11:23:24.552 [Gauge] [DEBUG] Runner with PID:7940 has exited
+06-07-2020 12:17:48.667 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 12:17:48.667 [Gauge] [DEBUG] Found 1 files
+06-07-2020 12:17:48.983 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 12:17:48.983 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+06-07-2020 12:17:49.070 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 12:17:49.071 [Gauge] [DEBUG] Found 1 files
+06-07-2020 12:17:49.480 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 12:17:49.481 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 12:17:49.481 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 12:17:49.481 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 12:17:49.481 [Gauge] [INFO] Starting language runner
+06-07-2020 12:17:49.878 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58343
+06-07-2020 12:17:49.881 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58343
+06-07-2020 12:17:49.881 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 12:17:50.227 [Gauge] [DEBUG] Validation started.
+06-07-2020 12:17:50.231 [Gauge] [DEBUG] Validation completed.
+06-07-2020 12:20:01.422 [Gauge] [DEBUG] Runner with PID:3628 has exited
+06-07-2020 12:20:01.439 [Gauge] [INFO] Connection closed
+06-07-2020 12:20:09.485 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 12:20:09.485 [Gauge] [DEBUG] Found 1 files
+06-07-2020 12:20:09.842 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 12:20:09.843 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 12:20:09.843 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 12:20:09.843 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 12:20:09.843 [Gauge] [INFO] Starting language runner
+06-07-2020 12:20:10.305 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58378
+06-07-2020 12:20:10.310 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58378
+06-07-2020 12:20:10.310 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 12:20:10.657 [Gauge] [DEBUG] Validation started.
+06-07-2020 12:20:10.661 [Gauge] [DEBUG] Validation completed.
+06-07-2020 12:21:15.411 [Gauge] [DEBUG] Runner with PID:11132 has exited
+06-07-2020 12:21:33.810 [Gauge] [INFO] Watching directory: e:\song\specs
+06-07-2020 12:21:33.810 [Gauge] [DEBUG] Found 1 files
+06-07-2020 12:21:34.242 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2020 12:21:34.243 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2020 12:21:34.243 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+06-07-2020 12:21:34.243 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2020 12:21:34.244 [Gauge] [INFO] Starting language runner
+06-07-2020 12:21:34.738 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58404
+06-07-2020 12:21:34.743 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58404
+06-07-2020 12:21:34.743 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+06-07-2020 12:21:35.256 [Gauge] [DEBUG] Validation started.
+06-07-2020 12:21:35.260 [Gauge] [DEBUG] Validation completed.
+06-07-2020 13:15:55.866 [Gauge] [DEBUG] Validation started.
+06-07-2020 13:15:55.868 [Gauge] [DEBUG] Validation completed.
+06-07-2020 13:16:01.069 [Gauge] [DEBUG] request #4: textDocument/documentSymbol: parsing failed for e:\song\specs\the_new_world.spec. [[ParseError] e:\song\specs\the_new_world.spec:1 Spec does not have any elements => '']
+06-07-2020 13:16:01.477 [Gauge] [DEBUG] Validation started.
+06-07-2020 13:16:01.478 [Gauge] [DEBUG] Validation completed.
+06-07-2020 16:54:19.761 [Gauge] [DEBUG] Runner with PID:10432 has exited
+06-07-2020 16:54:19.778 [Gauge] [INFO] Connection closed
+07-07-2020 08:15:18.283 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 08:15:18.294 [Gauge] [DEBUG] Found 1 files
+07-07-2020 08:15:20.756 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 08:15:20.759 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 08:15:20.760 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 08:15:20.760 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 08:15:20.760 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 08:15:20.767 [Gauge] [INFO] Starting language runner
+07-07-2020 08:15:22.664 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50078
+07-07-2020 08:15:22.672 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50078
+07-07-2020 08:15:22.672 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 08:15:22.904 [Gauge] [DEBUG] Validation started.
+07-07-2020 08:15:22.907 [Gauge] [DEBUG] Validation completed.
+07-07-2020 08:35:50.837 [Gauge] [DEBUG] Validation started.
+07-07-2020 08:35:50.839 [Gauge] [DEBUG] Validation completed.
+07-07-2020 08:44:03.325 [Gauge] [DEBUG] Validation started.
+07-07-2020 08:44:03.326 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:44:37.361 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:44:37.362 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:44:38.379 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:44:38.379 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:44:57.594 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:44:57.595 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:44:58.520 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:44:58.521 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:44:59.214 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:44:59.215 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:44:59.558 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:44:59.558 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:01.605 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:01.606 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:02.264 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:02.265 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:05.746 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:05.747 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:07.591 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:07.592 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:07.995 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:07.995 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:08.789 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:08.789 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:10.522 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:10.523 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:17.842 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:17.842 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:20.858 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:20.859 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:21.071 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:21.072 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:22.200 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:22.201 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:22.435 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:22.435 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:23.325 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:23.326 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:23.580 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:23.581 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:24.360 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:24.360 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:26.203 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:26.204 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:27.154 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:27.155 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:28.411 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:28.412 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:32.384 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:32.385 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:33.002 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:33.003 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:33.269 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:33.270 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:33.834 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:33.835 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:34.303 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:34.304 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:41.837 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:41.838 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:51.088 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:51.089 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:45:52.853 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:45:52.854 [Gauge] [DEBUG] Validation completed.
+07-07-2020 10:46:08.951 [Gauge] [DEBUG] Validation started.
+07-07-2020 10:46:08.952 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:15:49.487 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:15:49.487 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:15:55.119 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:15:55.119 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:15:56.339 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:15:56.340 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:15:57.127 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:15:57.127 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:15:57.688 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:15:57.688 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:00.749 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:00.749 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:01.026 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:01.026 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:01.349 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:01.350 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:01.628 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:01.629 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:02.134 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:02.135 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:03.351 [js] [ERROR] Line 19: Unexpected token ;
+07-07-2020 11:16:03.565 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:03.566 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:05.022 [js] [ERROR] Line 19: Unexpected identifier
+07-07-2020 11:16:05.236 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:05.236 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:08.188 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:08.189 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:15.751 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:15.752 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:16.019 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:16.020 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:16.518 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:16.518 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:16.731 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:16.732 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:19.334 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:19.335 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:19.953 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:19.954 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:20.807 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:20.807 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:21.696 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:21.696 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:21.998 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:21.999 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:22.327 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:22.328 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:26.040 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:26.041 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:16:27.940 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:16:27.941 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:20:48.850 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 11:42:01.543 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:42:01.544 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:44:01.602 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:44:01.602 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:44:36.151 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:44:36.152 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:45:22.391 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:45:22.392 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:29.738 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:29.739 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:30.118 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:30.119 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:36.373 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:36.374 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:36.807 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:36.808 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:39.391 [js] [ERROR] Line 19: Octal literals are not allowed in strict mode.
+07-07-2020 11:47:39.607 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:39.608 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:40.953 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:40.954 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:43.285 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:43.285 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:47:43.817 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:47:43.817 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:48:16.121 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:48:16.122 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:48:16.349 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:48:16.350 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:48:17.575 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:48:17.576 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:48:19.202 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:48:19.203 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:51:25.171 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:51:25.172 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:51:25.535 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:51:25.536 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:51:27.974 [js] [ERROR] Line 9: Octal literals are not allowed in strict mode.
+07-07-2020 11:51:28.186 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:51:28.187 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:51:28.402 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:51:28.403 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:52:35.475 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:52:35.476 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:52:35.736 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:52:35.737 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:53:38.734 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:53:38.735 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:53:39.500 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:53:39.500 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:53:40.073 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:53:40.074 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:54:50.705 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:54:50.705 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:54:51.269 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:54:51.270 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:54:51.723 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:54:51.724 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:54:52.130 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:54:52.130 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:54:52.342 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:54:52.342 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:54:52.973 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:54:52.974 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:54:53.428 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:54:53.429 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:55:55.838 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:55:55.839 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:55:56.491 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:55:56.492 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:55:56.991 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:55:56.992 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:55:57.491 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:55:57.492 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:55:58.040 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:55:58.041 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:56:11.645 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:56:11.646 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:56:17.824 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:56:17.825 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:56:19.207 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:56:19.208 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:56:21.365 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:56:21.366 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:56:22.847 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:56:22.848 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:57:10.194 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:57:10.194 [Gauge] [DEBUG] Validation completed.
+07-07-2020 11:58:01.536 [Gauge] [DEBUG] Validation started.
+07-07-2020 11:58:01.537 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:00:11.368 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:00:11.368 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:02:44.345 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:02:44.346 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:02:44.719 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:02:44.719 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:02:45.087 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:02:45.087 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:02:47.949 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:02:47.950 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:03:19.502 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:03:19.503 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:03:20.263 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:03:20.264 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:03:37.164 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:03:37.165 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:03:38.655 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:03:38.656 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:03:39.233 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:03:39.234 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:04:08.412 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:04:08.413 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:04:21.873 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:04:21.874 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:04:36.456 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:04:36.456 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:04:36.983 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:04:36.984 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:07:12.322 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:07:12.322 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:07:14.069 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:07:14.070 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:07:49.239 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:07:49.240 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:07:49.826 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:07:49.827 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:07:50.470 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:07:50.471 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:09:37.274 [js] [ERROR] Line 3: Unexpected token
+07-07-2020 12:09:37.495 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:09:37.496 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:20:54.546 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 12:58:11.370 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:58:11.372 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:58:14.662 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:58:14.662 [Gauge] [DEBUG] Validation completed.
+07-07-2020 12:58:17.321 [Gauge] [DEBUG] Validation started.
+07-07-2020 12:58:17.321 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:21:01.096 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:21:01.097 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:21:02.486 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:21:02.487 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:21:06.061 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:21:06.061 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:21:06.513 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:21:06.514 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:21:15.334 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:21:15.334 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:46:25.955 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 13:47:21.734 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:47:21.735 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:47:21.951 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:47:21.952 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:47:22.172 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:47:22.173 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:51:07.719 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:51:07.720 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:51:38.493 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:51:38.493 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:51:39.066 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:51:39.067 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:51:39.323 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:51:39.324 [Gauge] [DEBUG] Validation completed.
+07-07-2020 13:52:30.390 [Gauge] [DEBUG] Validation started.
+07-07-2020 13:52:30.391 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:32:27.402 [Gauge] [DEBUG] Runner with PID:8756 has exited
+07-07-2020 14:32:27.418 [Gauge] [INFO] Connection closed
+07-07-2020 14:32:33.191 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:32:33.219 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:32:33.642 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:32:33.643 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:32:33.643 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:32:33.643 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:32:33.644 [Gauge] [INFO] Starting language runner
+07-07-2020 14:32:34.198 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57173
+07-07-2020 14:32:34.209 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57173
+07-07-2020 14:32:34.209 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:32:34.717 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:32:34.721 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:32:59.034 [Gauge] [DEBUG] Runner with PID:15076 has exited
+07-07-2020 14:32:59.052 [Gauge] [INFO] Connection closed
+07-07-2020 14:33:20.481 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:33:20.484 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:33:20.848 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:33:20.848 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:33:20.848 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:33:20.848 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:33:20.849 [Gauge] [INFO] Starting language runner
+07-07-2020 14:33:21.287 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57191
+07-07-2020 14:33:21.291 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57191
+07-07-2020 14:33:21.292 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:33:21.865 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:33:21.869 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:33:35.279 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:33:35.280 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:33:54.831 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:33:54.832 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:33:55.069 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:33:55.070 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:36:34.568 [Gauge] [DEBUG] Runner with PID:12092 has exited
+07-07-2020 14:36:44.032 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:36:44.032 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:36:44.387 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:36:44.387 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:36:44.388 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:36:44.388 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:36:44.388 [Gauge] [INFO] Starting language runner
+07-07-2020 14:36:45.714 [python] [INFO] Python: 3.8.3
+07-07-2020 14:36:45.714 [python] [DEBUG] Loading step implementations from e:\song\tests dirs.
+07-07-2020 14:36:45.721 [python] [DEBUG] Starting grpc server..
+07-07-2020 14:36:45.725 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57239
+07-07-2020 14:36:45.726 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57239
+07-07-2020 14:36:45.726 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:36:46.004 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:36:46.005 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:36:46.236 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:36:46.237 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:37:08.894 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:37:08.894 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:37:09.124 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:37:09.125 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:37:12.165 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:37:12.166 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:37:28.990 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:37:28.991 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:37:30.802 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:37:30.803 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:38:07.299 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:38:07.300 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:39:55.863 [python] [DEBUG] KillProcessrequest received
+07-07-2020 14:39:56.405 [Gauge] [DEBUG] Runner with PID:11528 has exited
+07-07-2020 14:39:56.423 [Gauge] [INFO] Connection closed
+07-07-2020 14:40:00.702 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:40:00.702 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:40:01.085 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:40:01.086 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:40:01.086 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:40:01.086 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:40:01.087 [Gauge] [INFO] Starting language runner
+07-07-2020 14:40:03.178 [python] [INFO] Python: 3.8.3
+07-07-2020 14:40:03.178 [python] [DEBUG] Loading step implementations from e:\song\tests dirs.
+07-07-2020 14:40:03.185 [python] [DEBUG] Starting grpc server..
+07-07-2020 14:40:03.189 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57290
+07-07-2020 14:40:03.190 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57290
+07-07-2020 14:40:03.190 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:40:03.445 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:40:03.445 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:40:03.693 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:40:03.694 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:40:09.371 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:40:09.372 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:44:44.716 [python] [DEBUG] KillProcessrequest received
+07-07-2020 14:44:45.253 [Gauge] [DEBUG] Runner with PID:8832 has exited
+07-07-2020 14:44:45.269 [Gauge] [INFO] Connection closed
+07-07-2020 14:44:49.279 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:44:49.279 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:44:49.685 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:44:49.685 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:44:49.685 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:44:49.685 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:44:49.687 [Gauge] [INFO] Starting language runner
+07-07-2020 14:44:51.177 [python] [INFO] Python: 3.8.3
+07-07-2020 14:44:51.177 [python] [DEBUG] Loading step implementations from e:\song\step_impl dirs.
+07-07-2020 14:44:51.177 [python] [DEBUG] Starting grpc server..
+07-07-2020 14:44:51.177 [python] [ERROR] can not load implementations from e:\song\step_impl. e:\song\step_impl does not exist.
+07-07-2020 14:44:51.181 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57367
+07-07-2020 14:44:51.182 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57367
+07-07-2020 14:44:51.182 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:44:51.420 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:44:55.515 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:46:36.961 [python] [DEBUG] KillProcessrequest received
+07-07-2020 14:46:37.506 [Gauge] [DEBUG] Runner with PID:8924 has exited
+07-07-2020 14:46:37.522 [Gauge] [INFO] Connection closed
+07-07-2020 14:46:41.178 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:46:41.178 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:46:41.457 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:46:41.458 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:46:41.458 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:46:41.458 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:46:41.459 [Gauge] [INFO] Starting language runner
+07-07-2020 14:46:42.439 [python] [INFO] Python: 3.8.3
+07-07-2020 14:46:42.439 [python] [DEBUG] Loading step implementations from e:\song\step_impl dirs.
+07-07-2020 14:46:42.439 [python] [DEBUG] Starting grpc server..
+07-07-2020 14:46:42.439 [python] [ERROR] can not load implementations from e:\song\step_impl. e:\song\step_impl does not exist.
+07-07-2020 14:46:42.443 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57404
+07-07-2020 14:46:42.444 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57404
+07-07-2020 14:46:42.444 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:46:42.690 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:46:42.927 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:49:10.704 [python] [DEBUG] KillProcessrequest received
+07-07-2020 14:49:11.236 [Gauge] [DEBUG] Runner with PID:2720 has exited
+07-07-2020 14:49:11.253 [Gauge] [INFO] Connection closed
+07-07-2020 14:49:14.750 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:49:14.751 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:49:15.045 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:49:15.046 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:49:15.046 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:49:15.046 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:49:15.046 [Gauge] [INFO] Starting language runner
+07-07-2020 14:49:16.037 [python] [INFO] Python: 3.8.3
+07-07-2020 14:49:16.037 [python] [DEBUG] Loading step implementations from e:\song\step_impl dirs.
+07-07-2020 14:49:16.037 [python] [DEBUG] Starting grpc server..
+07-07-2020 14:49:16.037 [python] [ERROR] can not load implementations from e:\song\step_impl. e:\song\step_impl does not exist.
+07-07-2020 14:49:16.041 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57479
+07-07-2020 14:49:16.042 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57479
+07-07-2020 14:49:16.042 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:49:16.293 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:49:16.526 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:49:51.401 [python] [DEBUG] KillProcessrequest received
+07-07-2020 14:49:51.937 [Gauge] [DEBUG] Runner with PID:776 has exited
+07-07-2020 14:49:51.954 [Gauge] [INFO] Connection closed
+07-07-2020 14:49:56.379 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:49:56.379 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:49:56.658 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:49:56.658 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:49:56.658 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:49:56.659 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:49:56.659 [Gauge] [INFO] Starting language runner
+07-07-2020 14:49:57.671 [python] [INFO] Python: 3.8.3
+07-07-2020 14:49:57.671 [python] [DEBUG] Loading step implementations from e:\song\tests\ui dirs.
+07-07-2020 14:49:57.671 [python] [DEBUG] Starting grpc server..
+07-07-2020 14:49:57.676 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57494
+07-07-2020 14:49:57.676 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57494
+07-07-2020 14:49:57.676 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:49:57.918 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:49:58.165 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:50:52.653 [python] [DEBUG] KillProcessrequest received
+07-07-2020 14:50:53.177 [Gauge] [DEBUG] Runner with PID:8516 has exited
+07-07-2020 14:50:53.192 [Gauge] [INFO] Connection closed
+07-07-2020 14:50:56.762 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:50:56.762 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:50:57.067 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:50:57.067 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:50:57.067 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:50:57.067 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:50:57.068 [Gauge] [INFO] Starting language runner
+07-07-2020 14:50:57.417 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57511
+07-07-2020 14:50:57.421 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57511
+07-07-2020 14:50:57.421 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:50:57.673 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:50:57.676 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:50:57.918 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:50:57.919 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:51:19.598 [Gauge] [DEBUG] Runner with PID:11100 has exited
+07-07-2020 14:51:23.512 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:51:23.513 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:51:23.779 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:51:23.779 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:51:23.779 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:51:23.779 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:51:23.780 [Gauge] [INFO] Starting language runner
+07-07-2020 14:51:24.126 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57526
+07-07-2020 14:51:24.129 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57526
+07-07-2020 14:51:24.129 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:51:24.420 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:51:24.424 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:51:24.662 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:51:24.663 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:52:05.696 [Gauge] [DEBUG] Runner with PID:9176 has exited
+07-07-2020 14:52:05.733 [Gauge] [INFO] Connection closed
+07-07-2020 14:52:09.514 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 14:52:09.514 [Gauge] [DEBUG] Found 1 files
+07-07-2020 14:52:09.803 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 14:52:09.803 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 14:52:09.803 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 14:52:09.803 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 14:52:09.804 [Gauge] [INFO] Starting language runner
+07-07-2020 14:52:10.151 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57554
+07-07-2020 14:52:10.154 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57554
+07-07-2020 14:52:10.154 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 14:52:10.447 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:52:10.452 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:52:10.692 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:52:10.693 [Gauge] [DEBUG] Validation completed.
+07-07-2020 14:53:22.385 [Gauge] [DEBUG] Validation started.
+07-07-2020 14:53:22.389 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:25:32.500 [Gauge] [DEBUG] Runner with PID:4620 has exited
+07-07-2020 15:25:32.526 [Gauge] [INFO] Connection closed
+07-07-2020 15:25:36.948 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 15:25:36.952 [Gauge] [DEBUG] Found 1 files
+07-07-2020 15:25:37.378 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 15:25:37.379 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 15:25:37.379 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 15:25:37.379 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 15:25:37.380 [Gauge] [INFO] Starting language runner
+07-07-2020 15:25:38.883 [python] [INFO] Python: 3.8.3
+07-07-2020 15:25:38.883 [python] [DEBUG] Loading step implementations from e:\song\tests\ui dirs.
+07-07-2020 15:25:38.883 [python] [DEBUG] Starting grpc server..
+07-07-2020 15:25:38.887 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53437
+07-07-2020 15:25:38.888 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53437
+07-07-2020 15:25:38.888 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 15:25:39.130 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:25:43.698 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:27:10.626 [python] [DEBUG] KillProcessrequest received
+07-07-2020 15:27:11.161 [Gauge] [DEBUG] Runner with PID:8800 has exited
+07-07-2020 15:27:11.179 [Gauge] [INFO] Connection closed
+07-07-2020 15:27:15.194 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 15:27:15.194 [Gauge] [DEBUG] Found 1 files
+07-07-2020 15:27:15.475 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 15:27:15.475 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 15:27:15.475 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 15:27:15.475 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 15:27:15.476 [Gauge] [INFO] Starting language runner
+07-07-2020 15:27:16.495 [python] [INFO] Python: 3.8.3
+07-07-2020 15:27:16.496 [python] [DEBUG] Loading step implementations from e:\song\tests\ui dirs.
+07-07-2020 15:27:16.496 [python] [DEBUG] Starting grpc server..
+07-07-2020 15:27:16.501 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53468
+07-07-2020 15:27:16.502 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53468
+07-07-2020 15:27:16.502 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 15:27:16.758 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:27:21.711 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:28:57.291 [python] [DEBUG] KillProcessrequest received
+07-07-2020 15:28:57.834 [Gauge] [DEBUG] Runner with PID:10772 has exited
+07-07-2020 15:28:57.851 [Gauge] [INFO] Connection closed
+07-07-2020 15:29:02.896 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 15:29:02.897 [Gauge] [DEBUG] Found 1 files
+07-07-2020 15:29:03.343 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 15:29:03.343 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 15:29:03.343 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 15:29:03.343 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 15:29:03.344 [Gauge] [INFO] Starting language runner
+07-07-2020 15:29:04.762 [python] [INFO] Python: 3.8.3
+07-07-2020 15:29:04.762 [python] [DEBUG] Loading step implementations from e:\song\tests\ui dirs.
+07-07-2020 15:29:04.762 [python] [DEBUG] Starting grpc server..
+07-07-2020 15:29:04.765 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53513
+07-07-2020 15:29:04.767 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53513
+07-07-2020 15:29:04.767 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 15:29:05.043 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:29:40.607 [python] [DEBUG] KillProcessrequest received
+07-07-2020 15:29:41.145 [Gauge] [DEBUG] Runner with PID:10696 has exited
+07-07-2020 15:29:41.160 [Gauge] [INFO] Connection closed
+07-07-2020 15:29:45.419 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 15:29:45.426 [Gauge] [DEBUG] Found 1 files
+07-07-2020 15:29:45.767 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 15:29:45.767 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 15:29:45.767 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 15:29:45.767 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 15:29:45.768 [Gauge] [INFO] Starting language runner
+07-07-2020 15:29:47.197 [python] [INFO] Python: 3.8.3
+07-07-2020 15:29:47.197 [python] [DEBUG] Loading step implementations from e:\song\tests\ui dirs.
+07-07-2020 15:29:47.197 [python] [DEBUG] Starting grpc server..
+07-07-2020 15:29:47.200 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53531
+07-07-2020 15:29:47.202 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53531
+07-07-2020 15:29:47.202 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 15:29:47.441 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:31:23.966 [python] [DEBUG] KillProcessrequest received
+07-07-2020 15:31:24.512 [Gauge] [DEBUG] Runner with PID:1128 has exited
+07-07-2020 15:31:24.530 [Gauge] [INFO] Connection closed
+07-07-2020 15:31:29.212 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 15:31:29.212 [Gauge] [DEBUG] Found 1 files
+07-07-2020 15:31:29.607 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 15:31:29.608 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 15:31:29.608 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 15:31:29.608 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 15:31:29.608 [Gauge] [INFO] Starting language runner
+07-07-2020 15:31:30.947 [python] [INFO] Python: 3.8.3
+07-07-2020 15:31:30.948 [python] [DEBUG] Loading step implementations from e:\song\tests\ui dirs.
+07-07-2020 15:31:30.948 [python] [DEBUG] Starting grpc server..
+07-07-2020 15:31:30.957 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53563
+07-07-2020 15:31:30.959 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53563
+07-07-2020 15:31:30.959 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 15:31:31.211 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:33:28.700 [python] [DEBUG] KillProcessrequest received
+07-07-2020 15:33:29.245 [Gauge] [DEBUG] Runner with PID:1036 has exited
+07-07-2020 15:33:29.263 [Gauge] [INFO] Connection closed
+07-07-2020 15:33:33.601 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 15:33:33.601 [Gauge] [DEBUG] Found 1 files
+07-07-2020 15:33:34.089 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 15:33:34.091 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 15:33:34.091 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 15:33:34.091 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 15:33:34.096 [Gauge] [INFO] Starting language runner
+07-07-2020 15:33:35.466 [python] [INFO] Python: 3.8.3
+07-07-2020 15:33:35.467 [python] [DEBUG] Loading step implementations from e:\song\tests\ui dirs.
+07-07-2020 15:33:35.467 [python] [DEBUG] Starting grpc server..
+07-07-2020 15:33:35.471 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53600
+07-07-2020 15:33:35.472 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53600
+07-07-2020 15:33:35.472 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 15:33:35.917 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:43:40.676 [python] [DEBUG] KillProcessrequest received
+07-07-2020 15:43:41.220 [Gauge] [DEBUG] Runner with PID:5080 has exited
+07-07-2020 15:43:41.238 [Gauge] [INFO] Connection closed
+07-07-2020 15:43:44.897 [Gauge] [INFO] Watching directory: e:\song\specs
+07-07-2020 15:43:44.898 [Gauge] [DEBUG] Found 1 files
+07-07-2020 15:43:45.175 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+07-07-2020 15:43:45.175 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-07-2020 15:43:45.175 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+07-07-2020 15:43:45.175 [Gauge] [INFO] Initializing steps cache with 1 steps
+07-07-2020 15:43:45.177 [Gauge] [INFO] Starting language runner
+07-07-2020 15:43:45.537 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53652
+07-07-2020 15:43:45.540 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53652
+07-07-2020 15:43:45.540 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+07-07-2020 15:43:45.800 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:43:45.806 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:09.570 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:09.572 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:16.526 [js] [ERROR] Line 24: Unexpected token {
+07-07-2020 15:46:16.756 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:16.757 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:17.030 [js] [ERROR] Line 24: Unexpected token {
+07-07-2020 15:46:17.261 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:17.262 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:20.147 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:46:20.375 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:20.376 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:21.064 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:46:21.296 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:21.297 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:21.727 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:46:21.956 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:21.957 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:22.498 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:46:22.718 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:46:22.733 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:22.734 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:22.964 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:22.965 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:24.209 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:24.210 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:24.669 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:24.670 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:46:50.966 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 15:46:50.994 [Gauge] [DEBUG] request #12: textDocument/documentSymbol: parsing failed for e:\song\specs\the_new_world.spec. [[ParseError] e:\song\specs\the_new_world.spec:1 Spec does not have any elements => '']
+07-07-2020 15:46:51.267 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:46:51.268 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:37.238 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:37.239 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:37.456 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:47:37.690 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:37.691 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:38.126 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:47:38.357 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:38.358 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:38.573 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:47:38.800 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:38.801 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:39.041 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:47:39.274 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:39.275 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:39.459 [js] [ERROR] Line 24: Unexpected token {
+07-07-2020 15:47:39.692 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:39.693 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:39.860 [js] [ERROR] Line 24: Unexpected token {
+07-07-2020 15:47:40.096 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:40.097 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:47:40.553 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:47:40.554 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:48:18.906 [js] [ERROR] Line 24: Unexpected token {
+07-07-2020 15:48:19.136 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:48:19.137 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:48:19.894 [js] [ERROR] Line 24: Unexpected token {
+07-07-2020 15:48:20.123 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:48:20.124 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:48:29.230 [js] [ERROR] Line 24: Invalid left-hand side in assignment
+07-07-2020 15:48:29.466 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:48:29.466 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:48:30.469 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:48:30.470 [Gauge] [DEBUG] Validation completed.
+07-07-2020 15:48:30.982 [Gauge] [DEBUG] Validation started.
+07-07-2020 15:48:30.983 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:31.846 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:31.847 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:31.905 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:31.926 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:33.747 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:33.748 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:34.180 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:34.181 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:34.237 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:34.251 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:35.877 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:35.878 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:35.941 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:35.959 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:36.601 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:36.602 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:36.680 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:36.701 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:37.668 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:37.669 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:38.085 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:38.086 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:38.367 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:01:38.368 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:01:38.425 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:01:38.443 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:08.771 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:08.772 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:08.832 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:08.851 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:17.432 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:17.433 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:17.508 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:17.526 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:17.779 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:17.780 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:18.235 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:18.236 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:18.527 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:18.528 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:18.604 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:18.609 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:19.313 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:19.314 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:19.388 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:19.401 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:19.966 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:19.967 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:20.026 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:20.042 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:20.847 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:20.848 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:20.913 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:20.926 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:22.086 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:22.087 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:22.535 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:22.536 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:23.662 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:23.663 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:24.085 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:24.086 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:24.157 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:24.176 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:26.870 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:26.870 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:27.340 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:27.341 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:27.726 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:27.727 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:27.793 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:27.809 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:28.366 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:28.367 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:28.433 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:28.451 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:29.038 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:29.039 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:29.125 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:29.143 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:29.787 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:29.788 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:29.852 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:29.868 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:30.378 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:30.379 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:30.601 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:30.602 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:30.674 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:30.693 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:31.317 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:31.318 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:31.386 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:31.401 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:32.021 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:32.022 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:32.066 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:32.084 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:32.991 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:32.992 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:33.534 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:33.535 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:33.858 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:02:33.859 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:02:33.939 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:02:33.959 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:10:11.342 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:10:11.343 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:10:11.376 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:10:11.387 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:10:26.643 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:10:26.644 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:10:26.705 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:10:26.712 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:20.944 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:20.945 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:20.995 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:21.006 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:21.524 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:21.525 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:21.594 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:21.614 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:23.151 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:23.151 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:23.209 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:23.214 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:26.171 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:26.171 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:26.665 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:26.666 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:26.896 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:26.897 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:27.250 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:27.251 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:27.662 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:27.664 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:27.714 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:27.723 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:29.088 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:14:29.088 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:14:29.151 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:29.164 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:31.329 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:31.348 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:31.617 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:14:31.631 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+07-07-2020 16:48:40.749 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:48:40.750 [Gauge] [DEBUG] Validation completed.
+07-07-2020 16:48:41.268 [Gauge] [DEBUG] Validation started.
+07-07-2020 16:48:41.269 [Gauge] [DEBUG] Validation completed.
+07-07-2020 17:01:15.968 [Gauge] [DEBUG] Runner with PID:7436 has exited
+07-07-2020 17:01:15.974 [Gauge] [INFO] Connection closed
+08-07-2020 08:38:38.526 [Gauge] [INFO] Watching directory: e:\song\specs
+08-07-2020 08:38:38.545 [Gauge] [DEBUG] Found 1 files
+08-07-2020 08:38:39.852 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+08-07-2020 08:38:39.857 [Gauge] [INFO] Initializing specs cache with 1 specs
+08-07-2020 08:38:39.857 [Gauge] [DEBUG] Adding specs from e:\song\specs\the_new_world.spec
+08-07-2020 08:38:39.857 [Gauge] [INFO] Initializing steps cache with 1 steps
+08-07-2020 08:38:39.862 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+08-07-2020 08:38:39.865 [Gauge] [INFO] Starting language runner
+08-07-2020 08:38:41.870 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57729
+08-07-2020 08:38:41.876 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57729
+08-07-2020 08:38:41.876 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+08-07-2020 08:38:42.127 [Gauge] [DEBUG] Validation started.
+08-07-2020 08:38:42.130 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:13.812 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:13.813 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:18.773 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:18.774 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:20.712 [js] [ERROR] Line 24: Unexpected token ILLEGAL
+08-07-2020 09:23:20.967 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:20.968 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:21.710 [js] [ERROR] Line 24: Unexpected token ILLEGAL
+08-07-2020 09:23:21.936 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:21.937 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:22.166 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:22.167 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:23.267 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:23.268 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:23.495 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:23.496 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:44.372 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:44.373 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:45.702 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:45.703 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:46.209 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:46.209 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:47.870 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:47.871 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:48.285 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:48.285 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:48.719 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:48.720 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:49.150 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:49.151 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:49.856 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:49.857 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:50.424 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:50.424 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:50.693 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:50.694 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:51.568 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:51.569 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:52.297 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:52.298 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:52.730 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:52.731 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:53.076 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:53.077 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:54.170 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:54.171 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:23:55.591 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:23:55.592 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:12.269 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:12.270 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:19.134 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:19.135 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:21.076 [js] [ERROR] Line 33: Unexpected token ILLEGAL
+08-07-2020 09:24:21.332 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:21.333 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:21.491 [js] [ERROR] Line 33: Unexpected token ILLEGAL
+08-07-2020 09:24:21.720 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:21.720 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:21.948 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:21.949 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:22.374 [js] [ERROR] Line 33: Invalid regular expression: missing /
+08-07-2020 09:24:22.604 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:22.605 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:22.831 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:22.831 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:23.058 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:23.059 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:26.842 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:26.843 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:27.076 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:27.076 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:27.308 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:27.309 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:27.667 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:27.668 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:28.683 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:28.684 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:28.989 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:28.990 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:29.220 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:29.220 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:29.720 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:29.720 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:30.328 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:30.329 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:32.069 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:32.070 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:32.761 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:32.762 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:36.995 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:36.996 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:37.578 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:37.579 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:39.173 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:39.174 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:39.511 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:39.512 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:39.864 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:39.865 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:40.858 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:40.858 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:41.120 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:41.121 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:41.849 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:41.850 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:42.426 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:42.427 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:43.136 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:43.137 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:43.759 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:43.760 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:44.064 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:44.065 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:48.477 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:48.478 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:49.689 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:49.690 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:50.016 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:50.018 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:50.456 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:50.457 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:50.919 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:50.920 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:51.245 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:51.245 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:51.952 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:51.953 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:52.177 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:52.178 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:24:52.881 [Gauge] [DEBUG] Validation started.
+08-07-2020 09:24:52.882 [Gauge] [DEBUG] Validation completed.
+08-07-2020 09:59:00.294 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
+08-07-2020 12:28:51.177 [Gauge] [INFO] Spec file added / modified: e:\song\specs\the_new_world.spec
