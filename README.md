@@ -204,7 +204,7 @@
 
 6. 访问地址：http://127.0.0.1:8010/，点击**hello**按钮右上角弹出提示，调用接口获取数据成功。
 
-   ![image-20200707131518877](./pics/image-hello.png)
+   ![image-20200707131518877](pics/image-hello.png)
 
 
 
@@ -280,7 +280,7 @@
 
    * 查看测试报告：
 
-     ![image-20200707132838693](./pics/image-hello-report.png)
+     ![image-20200707132838693](pics/image-hello-report.png)
 
 
 
