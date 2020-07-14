@@ -125,7 +125,7 @@
 
  5. 访问接口swagger-ui-console地址http://localhost:5000/api/ui查看接口：
 
-    ![image-20200707131734584](pics\image-hello-api.png)
+    ![image-20200707131734584](pics/image-hello-api.png)
 
 
 
@@ -280,7 +280,7 @@
 
    * 查看测试报告：
 
-     ![image-20200707132838693](E:\westeros\pics\image-hello-report.png)
+     ![image-20200707132838693](./pics/image-hello-report.png)
 
 
 
